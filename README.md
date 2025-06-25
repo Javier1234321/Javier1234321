@@ -23,14 +23,9 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=java" alt="Java">
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring">
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux">
-  <img src="https://skillicons.dev/icons?i=c" alt="C">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML">
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS">
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,linux,c,html,css&perline=6" alt="My Skills" />
+</p>
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />

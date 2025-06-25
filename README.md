@@ -23,10 +23,13 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<div style="text-align: center;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,linux" alt="My Skills">
-  </a>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java">
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux">
+  <img src="https://skillicons.dev/icons?i=c" alt="C">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS">
 </div>
 
 <p align= "center">

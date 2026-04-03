@@ -24,8 +24,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,linux,c,html,css&perline=6" alt="My Skills" />
 </p>
 <p align= "center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Javier1234321&theme=react&show_icons=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javier1234321&theme=react&layout=compact" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
 </p>
 
 ------
